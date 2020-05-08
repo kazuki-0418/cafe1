@@ -1,0 +1,85 @@
+.body{
+  background-color: #EEEEEE;
+}
+
+.HOME{
+background-color: black;
+text-align: center;
+font-size: 20px;
+display: table-cell;
+vertical-align: middle;
+font-family: serif;
+width: 100px;
+height: 40px;
+}
+.HOME a{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+header{
+  background-image: url(beverage-1840426_1920.jpg);
+  background-size: cover;
+  background-color: #FFEBCD;
+  height: 500px;
+  width: 800px;
+  position:relative;
+  margin: auto;
+  overflow: auto;
+
+}
+
+
+h1{
+  border-left: solid 10px black;
+  width: 100px;
+  margin-left: 100px;
+  padding-left: 10px;
+  font-family: serif;
+}
+
+.lunch {
+text-align: left;
+height: 1000px;
+font-family: serif;
+}
+.lunch h2{
+margin-left: 50px;
+border-bottom: double 1px #C0C0C0;
+text-align: left;
+width: 1400px;
+}
+
+.lunch li{
+  height:500px;
+  list-style-type: none;
+  margin-left: 200px;
+  font-size: 30px;
+  line-height: 300px;
+}
+.menu1{
+height: 400px;
+width:500px;
+float: right;
+background-size: cover;
+background-repeat: no-repeat;
+background-image: url(PAK_HR0I9A2700_TP_V.jpg);
+margin-right: 100px;
+}
+.menu2{
+  background-size: cover;
+  background-repeat: no-repeat;
+  float: right;
+height: 400px;
+width: 500px;
+background-image: url(3154889_s.jpg);
+margin-right: 100px;
+}
+.menu3{
+  float: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+height: 500px;
+width:500px;
+background-image: url(3006171_m.jpg);
+margin-right: 100px;
+}
